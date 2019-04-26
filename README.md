@@ -10,4 +10,4 @@
 3) In the yml file, local folder where the data need to be stored is specified incorrectly.
    "data" -> "./data"
    
-4) Included "restart:always" just to makee sure the system wont shutdown if the postgresql doesnt start.
+
